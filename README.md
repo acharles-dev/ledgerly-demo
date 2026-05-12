@@ -6,8 +6,8 @@ The site mocks a fictional fintech product (**Ledgerly**, an AP automation platf
 
 ## Live URLs
 
-- **Ledgerly demo site:** https://alison-rebrandly.github.io/rebrandly-ct-demo/
-- **Channel mockup view:** https://alison-rebrandly.github.io/rebrandly-ct-demo/channels.html
+- **Ledgerly demo site:** https://acharles-dev.github.io/ledgerly-demo/
+- **Channel mockup view:** https://acharles-dev.github.io/ledgerly-demo/channels.html
 
 The channel view shows 11 platform mockups (Instagram, Reddit, email, LinkedIn ad, Google ad, Facebook ad, Twitter, newsletter, affiliate blog, Slack DM referral, direct browser) each with a real Rebrandly tracked CTA. Click any of them and you land on the Ledgerly site with channel attribution.
 
