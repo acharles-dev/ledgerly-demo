@@ -1,4 +1,6 @@
-# Ledgerly — Rebrandly Conversion Tracking demo
+# Ledgerly — AI-Generated Product Demo
+
+> Built with Claude AI to demonstrate how a product marketer can create full interactive demos with AI assistance.
 
 A live demoable site that shows how Rebrandly's Conversion Tracking attributes clicks, page views, and revenue back to the marketing channel that generated them.
 
